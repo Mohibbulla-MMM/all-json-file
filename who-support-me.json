@@ -18,6 +18,12 @@
     "id": 3
   },
   {
+    "name": "U-Demy",
+    "image": "https://i.ibb.co/RbVjCvb/download.png",
+    "description": "We are proud to be supported by a community that values education and the impact it has on shaping the future. Our platform is made possible by the contributions and support of",
+    "id": 1
+  },
+  {
     "name": "Thinkific",
     "image": "https://i.ibb.co/rdLCr7D/download-3.png",
     "description": "We are proud to be supported by a community that values education and the impact it has on shaping the future. Our platform is made possible by the contributions and support of",
@@ -28,5 +34,17 @@
     "image": "https://i.ibb.co/kcjYxvX/images-1.png",
     "description": "We are proud to be supported by a community that values education and the impact it has on shaping the future. Our platform is made possible by the contributions and support of",
     "id": 5
+  },
+  {
+    "name": "Learn Drash",
+    "image": "https://i.ibb.co/0V4fnYc/download-4.png",
+    "description": "We are proud to be supported by a community that values education and the impact it has on shaping the future. Our platform is made possible by the contributions and support of",
+    "id": 2
+  },
+  {
+    "name": "Kajabi",
+    "image": "https://i.ibb.co/3sLKShW/download-2.png",
+    "description": "We are proud to be supported by a community that values education and the impact it has on shaping the future. Our platform is made possible by the contributions and support of",
+    "id": 3
   }
 ]
