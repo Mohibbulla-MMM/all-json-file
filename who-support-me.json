@@ -1,0 +1,27 @@
+[
+  {
+    "name": "U-Demy",
+    "image": "https://i.ibb.co/RbVjCvb/download.png",
+    "id": 1
+  },
+  {
+    "name": "Learn Drash",
+    "image": "https://i.ibb.co/0V4fnYc/download-4.png",
+    "id": 2
+  },
+  {
+    "name": "Kajabi",
+    "image": "https://i.ibb.co/3sLKShW/download-2.png",
+    "id": 3
+  },
+  {
+    "name": "Thinkific",
+    "image": "https://i.ibb.co/rdLCr7D/download-3.png",
+    "id": 4
+  },
+  {
+    "name": "Teachable",
+    "image": "https://i.ibb.co/kcjYxvX/images-1.png",
+    "id": 5
+  }
+]
